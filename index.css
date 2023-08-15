@@ -11,7 +11,7 @@ body {
   margin-top: 120px;
 }
 .welcome {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(241, 93, 0);
   display: flex;
   align-items: center;
   font-family: "Istok Web", sans-serif;
@@ -19,12 +19,12 @@ body {
   font-weight: 600;
 
   justify-content: flex-start;
-  padding-top: 30px;
+  padding-top: 30;
   margin-left: 35%;
-  margin-bottom: -25px;
+  margin-bottom: -2%;
 }
 .articturn {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(36, 212, 5);
   display: flex;
   padding: 0px;
   font-family: "Times New Roman", Times, serif;
@@ -36,13 +36,13 @@ body {
   justify-content: center;
 }
 .where {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(0, 246, 246);
   display: flex;
   padding-top: 10px;
   font-family: "jost", sans-serif;
   font-size: 1.5rem;
   font-style: italic;
-  margin-top: -10rem;
+  margin-top: -11%;
   align-items: center;
   justify-content: center;
   margin-left: 17%;
@@ -54,12 +54,12 @@ body {
   align-items: center;
 
   justify-content: flex-end;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(208, 0, 215);
 }
 #manimg {
   width: 19rem;
   height: 19rem;
-  margin-bottom: 29rem;
-  margin-right: 21rem;
+  margin-bottom: 29%;
+  margin-right: 21%;
   transform: rotate(-8deg);
 }
