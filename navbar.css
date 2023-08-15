@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}
+nav {
+  display: flex;
+  background-color: azure;
+  justify-content: space-between;
+  margin: 20px;
+  align-items: center;
+  padding-right: 60px;
+  padding: 20px;
+  font-size: large;
+  font-weight: bold;
+  font-family: "Istok Web", sans-serif;
+}
+.logo {
+  background-color: rgb(255, 255, 255);
+  padding-left: 20px;
+}
+.nav-right {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+}
+.nav-item {
+  padding-right: 60px;
+}
