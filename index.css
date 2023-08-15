@@ -13,7 +13,7 @@ body {
   flex-direction: column;
 }
 .welcome {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(52, 154, 76);
   display: flex;
   align-items: center;
   font-family: "Istok Web", sans-serif;
@@ -24,6 +24,7 @@ body {
   padding-top: 30;
   margin-left: 35%;
   margin-bottom: -1%;
+  margin-top: 10px;
 }
 .articturn {
   background-color: rgb(36, 212, 5);
@@ -31,28 +32,27 @@ body {
   padding: 0px;
   font-family: "Times New Roman", Times, serif;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-
   font-size: 7.25rem;
   font-weight: bold;
   align-items: center;
-  justify-content: center;
+  margin-left: 35%;
+  flex-direction: row;
+  margin-top: 0;
 }
 .where {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 45, 45);
   display: flex;
   padding-top: 0px;
   font-family: "jost", sans-serif;
   font-size: 1.5rem;
   font-style: italic;
-  margin-top: -11%;
+  margin-top: -2%;
   align-items: center;
   justify-content: center;
-  margin-left: 17%;
+  margin-left: 19%;
   font-weight: bold;
 }
-.manimg {
-  display: flex;
-  height: 10rem;
+.head-container.articturn.manimg {
   align-items: center;
   justify-content: flex-end;
   background-color: rgb(192, 0, 199);
@@ -60,7 +60,7 @@ body {
 #manimg {
   width: 19rem;
   height: 19rem;
-  margin-bottom: 29%;
-  margin-right: 21%;
+  margin-top: -8rem;
+  margin-left: -6rem;
   transform: rotate(-8deg);
 }
