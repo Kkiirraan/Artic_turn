@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Istok+Web&family=Poppins:wght@300&display=swap");
+
+html,
+body {
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.head-container {
+  background-color: rgb(255, 255, 255);
+  margin: 50px;
+  margin-top: 120px;
+}
+.welcome {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  font-family: "Istok Web", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+
+  justify-content: flex-start;
+  padding-top: 30px;
+  margin-left: 35%;
+  margin-bottom: -25px;
+}
+.articturn {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  padding: 0px;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+  font-size: 7.25rem;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+}
+.where {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  padding-top: 10px;
+  font-family: "jost", sans-serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  margin-top: -10rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 17%;
+  font-weight: bold;
+}
+.manimg {
+  display: flex;
+  height: 10rem;
+  align-items: center;
+
+  justify-content: flex-end;
+  background-color: rgb(255, 255, 255);
+}
+#manimg {
+  width: 19rem;
+  height: 19rem;
+  margin-bottom: 29rem;
+  margin-right: 21rem;
+  transform: rotate(-8deg);
+}
